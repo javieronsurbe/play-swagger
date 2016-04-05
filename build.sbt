@@ -1,3 +1,4 @@
+sbtPlugin := true
 
 organization in ThisBuild := "com.iheart"
 
